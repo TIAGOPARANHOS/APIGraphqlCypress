@@ -1,0 +1,8 @@
+{
+    "method": "POST",
+    "url": "https://api.spacex.land/graphql/",
+    "failOnStatusCode": "false",
+    "body": "{ query: queryString }"
+    
+ 
+  }

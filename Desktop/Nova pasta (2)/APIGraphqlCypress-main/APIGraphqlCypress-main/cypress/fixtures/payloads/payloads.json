@@ -1,0 +1,3 @@
+{
+    "{\n        launchesPast(limit: 1) {\n          mission_name\n          launch_date_local }\n    \n      }": null
+}
